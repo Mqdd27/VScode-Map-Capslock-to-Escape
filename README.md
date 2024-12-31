@@ -1,0 +1,1 @@
+# vscode-escape-map-to-capslock
